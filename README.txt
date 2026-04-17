@@ -61,7 +61,7 @@ Quick Start
 
 1. Clone the Repository
 
-    git clone https://github.com/yourusername/Sporterica.git
+    git clone https://github.com/doiminus/HACKATON.git
     cd Sporterica
 
 2. Setup Django Backend
