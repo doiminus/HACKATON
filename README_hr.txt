@@ -57,7 +57,7 @@ Brzi Start
 
 1. Kloniraj repozitorij
 
-    git clone https://github.com/yourusername/Sporterica.git
+    git clone https://github.com/doiminus/HACKATON.git
     cd Sporterica
 
 2. Postavljanje Django backenda
